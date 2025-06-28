@@ -1,25 +1,22 @@
-## Giao diện đăng nhập 
-![Screenshot 2025-06-24 215922](https://github.com/user-attachments/assets/7671cc52-6509-431c-938a-48d92184a46a)
-## Giao diện lấy lại mật khẩu
-![Screenshot 2025-06-24 215932](https://github.com/user-attachments/assets/0e60ad50-65fb-4567-a92d-1a2611834f95)
-## Giao diện chính 
-![Screenshot 2025-06-24 215943](https://github.com/user-attachments/assets/9f83cbf5-c6c3-46de-9aaa-c386fb44469a)
-## Chức năng tìm kiếm và thống kê
-![Screenshot 2025-06-24 215952](https://github.com/user-attachments/assets/6501966f-e9da-453f-a213-a9fb03bc659e)
-![Screenshot 2025-06-24 220001](https://github.com/user-attachments/assets/7e731797-f888-4c4d-9f27-bd95f1baad53)
-## UX(Loading)
-![image](https://github.com/user-attachments/assets/5c52dbec-a63a-479a-ac8a-c07f4a6f3e2f)
-
 # Phần mềm Quản lý Học viên bằng Python
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![PyQt5](https://img.shields.io/badge/Qt-PyQt5-green.svg) ![Database](https://img.shields.io/badge/database-SQLite-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![PyQt5](https://img.shields.io/badge/Qt-PyQt5-green.svg) ![Database](https://img.shields.io/badge/database-MySQL-blue.svg)
 
 Đây là một dự án ứng dụng desktop được xây dựng bằng Python và thư viện PyQt5, dùng để quản lý thông tin học viên một cách hiệu quả và trực quan. Ứng dụng cho phép thực hiện đầy đủ các thao tác CRUD (Thêm, Đọc, Sửa, Xóa) và các chức năng tiện ích khác.
 
 ## 📸 Hình ảnh Demo
 
 **Cửa sổ Đăng nhập:**
+![Screenshot 2025-06-24 215922](https://github.com/user-attachments/assets/7671cc52-6509-431c-938a-48d92184a46a)
 **Cửa sổ Quản lý chính:**
-**Cửa sổ Tìm kiếm & Thống kê:**
+![Screenshot 2025-06-24 215943](https://github.com/user-attachments/assets/9f83cbf5-c6c3-46de-9aaa-c386fb44469a)
+**Cửa sổ Tìm kiếm & Thống kê:** 
+![Screenshot 2025-06-24 215952](https://github.com/user-attachments/assets/6501966f-e9da-453f-a213-a9fb03bc659e)
+![Screenshot 2025-06-24 220001](https://github.com/user-attachments/assets/7e731797-f888-4c4d-9f27-bd95f1baad53)
+**Giao diện lấy lại mật khẩu**
+![Screenshot 2025-06-24 215932](https://github.com/user-attachments/assets/0e60ad50-65fb-4567-a92d-1a2611834f95)
+**UX(Loading)**
+![image](https://github.com/user-attachments/assets/5c52dbec-a63a-479a-ac8a-c07f4a6f3e2f)
+
 ## ✨ Các tính năng chính
 
 * **Đăng nhập & Bảo mật:**
