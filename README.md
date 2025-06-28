@@ -58,8 +58,8 @@
 
 **1. Clone repository về máy:**
 ```bash
-git clone [ĐƯỜNG-DẪN-REPO-GITHUB-CỦA-BẠN]
-cd [TÊN-THƯ-MỤC-DỰ-ÁN]
+git clone https://github.com/hthoanganh/Quan_Ly_Hoc_Vien.git
+cd [Quan_Ly_Hoc_Vien]
 ```
 
 **2. Tạo và kích hoạt môi trường ảo:**
