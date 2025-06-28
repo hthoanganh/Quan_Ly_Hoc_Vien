@@ -7,4 +7,5 @@
 ## Chức năng tìm kiếm và thống kê
 ![Screenshot 2025-06-24 215952](https://github.com/user-attachments/assets/6501966f-e9da-453f-a213-a9fb03bc659e)
 ![Screenshot 2025-06-24 220001](https://github.com/user-attachments/assets/7e731797-f888-4c4d-9f27-bd95f1baad53)
-
+## UX(Loading)
+![image](https://github.com/user-attachments/assets/5c52dbec-a63a-479a-ac8a-c07f4a6f3e2f)
