@@ -50,8 +50,8 @@
 
 * **Ngôn ngữ:** Python 3
 * **Giao diện người dùng (GUI):** PyQt5
-* **Cơ sở dữ liệu:** SQLite 3 (dạng file, không cần cài đặt server)
-* **Công cụ:** Qt Designer, PyCharm/VS Code
+* **Cơ sở dữ liệu:** MySQL (dạng file, không cần cài đặt server)
+* **Công cụ:** Qt Designer, PyCharm và XAMPP
 
 ## 🚀 Cài đặt và Chạy dự án
 
